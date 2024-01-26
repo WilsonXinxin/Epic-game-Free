@@ -1,5 +1,4 @@
-2024-01-26 06:27:48 | ERROR    | hcaptcha_challenger.onnx.modelhub:flush_runtime_assets:190 | 0 - {}
-2024-01-26 06:30:30 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3688), thread 'MainThread' (140267782630272): - {}
+2024-01-27 06:31:32 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3539), thread 'MainThread' (139674293091200): - {}
 Traceback (most recent call last):
   File "/home/runner/work/Epic-game-Free/Epic-game-Free/epic/src/claim.py", line 151, in stash
     await self.claim_epic_games(context)
